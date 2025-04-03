@@ -1,0 +1,14 @@
+/Users/coopersnesko/Documents/cs310/ticTacToe/bin/Debug/net9.0/ticTacToe
+/Users/coopersnesko/Documents/cs310/ticTacToe/bin/Debug/net9.0/ticTacToe.deps.json
+/Users/coopersnesko/Documents/cs310/ticTacToe/bin/Debug/net9.0/ticTacToe.runtimeconfig.json
+/Users/coopersnesko/Documents/cs310/ticTacToe/bin/Debug/net9.0/ticTacToe.dll
+/Users/coopersnesko/Documents/cs310/ticTacToe/bin/Debug/net9.0/ticTacToe.pdb
+/Users/coopersnesko/Documents/cs310/ticTacToe/obj/Debug/net9.0/ticTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coopersnesko/Documents/cs310/ticTacToe/obj/Debug/net9.0/ticTacToe.AssemblyInfoInputs.cache
+/Users/coopersnesko/Documents/cs310/ticTacToe/obj/Debug/net9.0/ticTacToe.AssemblyInfo.cs
+/Users/coopersnesko/Documents/cs310/ticTacToe/obj/Debug/net9.0/ticTacToe.csproj.CoreCompileInputs.cache
+/Users/coopersnesko/Documents/cs310/ticTacToe/obj/Debug/net9.0/ticTacToe.dll
+/Users/coopersnesko/Documents/cs310/ticTacToe/obj/Debug/net9.0/refint/ticTacToe.dll
+/Users/coopersnesko/Documents/cs310/ticTacToe/obj/Debug/net9.0/ticTacToe.pdb
+/Users/coopersnesko/Documents/cs310/ticTacToe/obj/Debug/net9.0/ticTacToe.genruntimeconfig.cache
+/Users/coopersnesko/Documents/cs310/ticTacToe/obj/Debug/net9.0/ref/ticTacToe.dll
